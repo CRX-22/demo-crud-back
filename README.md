@@ -44,4 +44,5 @@ CREATE TABLE detalle
 );
 
 INSERT INTO cliente (id_cliente, nombre, apellido, direccion,telefono,email) VALUES (1,'Diego','Hernadez','carrera 3', 'dh@gmail.com');
+
 INSERT INTO producto (id_producto, nombre, precio, stock) VALUES (1,'tornillo',500,7);
